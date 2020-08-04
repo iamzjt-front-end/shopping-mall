@@ -49,7 +49,7 @@ export default {
 }
 
 .profile-list-item .profile-list-icon {
-  font-size: 22px;
+  font-size: 20px;
   display: inline-block;
   margin-right: 7px;
 }

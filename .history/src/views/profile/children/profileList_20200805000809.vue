@@ -19,11 +19,12 @@
     <div class="profile-list-item">
       <van-icon class="profile-list-icon"
                 name="cart-o" />
+      <!-- <van-icon class="profile-list-icon" name="shopping-cart" /> -->
       <span>我的购物车</span>
     </div>
     <div class="profile-list-item">
       <van-icon class="profile-list-icon"
-                name="good-job-o" />
+                name="good-job" />
       <span>点赞购物APP</span>
     </div>
   </div>
@@ -49,7 +50,7 @@ export default {
 }
 
 .profile-list-item .profile-list-icon {
-  font-size: 22px;
+  font-size: 24px;
   display: inline-block;
   margin-right: 7px;
 }
